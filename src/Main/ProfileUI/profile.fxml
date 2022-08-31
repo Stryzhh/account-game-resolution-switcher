@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<JFXButton fx:id="profile" alignment="CENTER" contentDisplay="TOP" prefHeight="132.0" prefWidth="110.0" style="-fx-background-color: #282828; -fx-border-color: black; -fx-background-radius: 10 10 10 10; -fx-border-radius: 10 10 10 10;" text="Title" textAlignment="CENTER" textFill="#b9b2b2" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Main.ProfileUI.ProfileController">
+   <graphic>
+      <AnchorPane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="79.0" prefWidth="85.0">
+         <children>
+            <ImageView fx:id="steam" fitHeight="40.0" fitWidth="40.0" layoutX="1.0" layoutY="1.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../images/example_steam.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="resolution" fitHeight="40.0" fitWidth="40.0" layoutX="44.0" layoutY="1.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../images/example_resolution.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="game" fitHeight="40.0" fitWidth="40.0" layoutX="22.0" layoutY="38.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../images/example_game.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </graphic>
+</JFXButton>
