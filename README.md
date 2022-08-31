@@ -13,7 +13,7 @@ Combining all these together by simply clicking one button you can simultaneousl
 ## What's New
 Version 1.0 is released (Sept 2022)! Please report any and all bugs, as well as steps to recreate them into the Issues section.
 
-** Featuring **
+**Featuring**
  * Cleaner and overall better UI, with implementation of basic animations. 
  * Automatically grabs steam app info using steam web API.
 
