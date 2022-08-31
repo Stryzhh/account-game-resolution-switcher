@@ -41,5 +41,10 @@ The features of this program:
 ## Watch a video
 You can view a video of this application [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+## Help, Informations and FAQ
+Please note you need to download [resolution-switcher](https://github.com/Stryzhh/resolution-switcher) and [tcno-acc-switcher](https://github.com/TcNobo/TcNo-Acc-Switcher).
+
+For more information visit [here](https://github.com/Stryzhh/account-game-resolution-switcher/wiki) for this apps wiki.
+
 ## Author(s)
 * [Dafydd Maund](https://github.com/Stryzhh)
