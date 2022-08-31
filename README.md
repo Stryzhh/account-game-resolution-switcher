@@ -1,6 +1,9 @@
 # account-game-resolution-switcher
 If you find any issues please post them in the issues section, also star this repository if you like the application - download [here](https://github.com/Stryzhh/account-game-resolution-switcher/releases).
 
+## Overview
+Change steam-account, resolution and/or load up a game faster than ever before by saving profiles and accessing them via desktop, start menu or pinned tiles.
+
 ## How does it work?
 Account switching in short terms is simple. It swaps out files and registry values, pointing to your last logged in account while the program is closed. Think of it as freezing a platform like Steam in time, and replacing the "account block" with a previously frozen "account block", then unfreezing it. To Steam and your Steam account, it "looks" like you pulled your plug out and put it back in a week or so later, meanwhile you were playing on other accounts. Swapping the account block lets the program: Not interact with passwords, and not interact with 2-factor, so you can "Skip" both of those in the login process. 
 
@@ -18,9 +21,6 @@ Version 1.0 is released (Sept 2022)! Please report any and all bugs, as well as 
  * Automatically grabs steam app info using steam web API.
 
 Again... for info on how this app works, visit the [Wiki](https://github.com/Stryzhh/account-game-resolution-switcher/wiki).
-
-## Overview
-Change steam-account, resolution and/or load up a game faster than ever before by saving profiles and accessing them via desktop, start menu or pinned tiles.
 
 ## Features
 
